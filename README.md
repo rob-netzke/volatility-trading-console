@@ -1,3 +1,1 @@
-## Console
-
-https://volatility-dashboard.herokuapp.com/
+4 panel dashboard with volatility predictions and statistics
